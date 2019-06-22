@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-destination-directory',
+  selector: 'destination-directory',
   templateUrl: './destination-directory.component.html',
   styleUrls: ['./destination-directory.component.scss']
 })
